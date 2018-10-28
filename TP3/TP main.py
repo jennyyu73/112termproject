@@ -1,7 +1,5 @@
 ########## Term Project Main File ############
 ## Jifeng (Jenny) Yu
-## AndrewID: jifengy
-## section G
 #####################
 
 from tkinter import *
@@ -18,10 +16,6 @@ from gameHelper import *
 # run, writeFile, and readFile functions are all taken from the 15-112 course website
 # MVP model is based off of the 15-112 course materials
 # all art done by myself on Paint Tool SAI program
-
-#### To Do List
-
-# make video!!
 
 ###### Overall MVP
 
